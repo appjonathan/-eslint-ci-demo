@@ -1,5 +1,5 @@
 // file1.js
-function greet(name) { 
+function greet (name) { 
     console.log("Hello, " + name + "!"); 
 } 
 
